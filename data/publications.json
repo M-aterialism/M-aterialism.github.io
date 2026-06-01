@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Neural ODEs for Irregular Time Series",
+    "authors": "Your Name, J. Smith, M. Zhang",
+    "venue": "ICLR 2025",
+    "year": 2025,
+    "abstract": "We propose a continuous-depth framework to model irregularly sampled time series, achieving state-of-the-art on three healthcare benchmarks.",
+    "pageUrl": "publications/2024-sample-research.html",
+    "pdfUrl": "https://arxiv.org/abs/2501.12345",
+    "codeUrl": "https://github.com/yourusername/neural-ode-ts"
+  },
+  {
+    "title": "Efficient Attention via Low-Rank Projections",
+    "authors": "Your Name, A. Gupta, L. Chen",
+    "venue": "NeurIPS 2024",
+    "year": 2024,
+    "abstract": "This work introduces a new linear-time attention mechanism that approximates full attention with provable low-rank error bounds.",
+    "pageUrl": "publications/2024-sample-research.html",
+    "pdfUrl": "https://arxiv.org/abs/2406.78901",
+    "codeUrl": ""
+  }
+]
