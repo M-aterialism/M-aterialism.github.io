@@ -1,1 +1,2 @@
-# M-aterialism.github.io
+# Materialism.github.io
+GitHub Pages
